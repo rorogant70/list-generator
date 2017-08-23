@@ -1,0 +1,6 @@
+import random
+
+print("Welcome to the name generater!")
+
+names = ['Ronald', 'Nancy', 'Rona' ]
+print(random.choice(names))
